@@ -9,9 +9,14 @@ Dies ist das GitHub Repository für das DIS 22 Projekt im Sommersemester 2023.
 
 Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt eure Notizen zum Ende der jeweiligen Kalenderwoche ein.,
 
-### KW 15
+### KW 15 (13.04.2023)
 
-- Hier kommt euer aktueller Stand rein...
+- Durchlesen der auf GitHub bereit gestellten Dokumente und GitHub Repositories
+- Treffen innerhalb des Teams zum Brainstorming erster Ideen
+- Vorbereitung auf die kommende Sitzung:
+   - Jupyter Notebook vorbereiten und Datenset herunterladen
+   - Statistiken zum Datenset bereit stellen
+   - mind. eine Statistik zur Lyriclänge erstellen
 
 ### KW 17
 
