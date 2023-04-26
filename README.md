@@ -20,7 +20,37 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 17
 
-- Hier kommt euer aktueller Stand rein...
+- Generelle Verteilungen der einzelnen Genres
+   - Statischtische Kennzahlen (min, max, mean, etc.) als Boxplot darstellen
+- Wie deutsch sind deutsche Songtexte eigentlich?
+   - Visualisierung: Pie Chart
+   - Vergleichen auf sprachlicher Ebene
+- Welche Fremdsprachen werden am meisten benutzt?
+   - Visualisierung: Pie Chart
+- Songlänge 
+   - Visualisierung: Scatterplot
+- Im welchen Genre treten die meisten Collaborationen auf? 
+   - Visualisierung: Barplot/ Knowledge Graphs
+- Welche Genres sind aktuell beliebt/ Trend?
+   - Veränderungen der Trends
+   - Visualisierung: Scatterplot/ Barplot
+- Was sind die meist benutzten Wörter?
+   - Visualisierung: Wortwolke
+- Wird Deutsch in Songtexten immer schlechter? Wie grammatikalisch Korrekt sind deutsche Songtexte eigentlich?
+   - Visualisierung:  Pie Chart/ Barplot
+- Welches Genre ist am Einzigartigsten? Wie vielfältig sind deutsche Songtexte?
+   -  Visualisierung: Swarmplot (https://nivo.rocks/swarmplot/)
+- Sind alle Song gleich? (Kann man Songs nach bestimmten Themen aufteilen?)
+   - Sentiment-Analyse
+   - Was ist das traurigste/ wütendste Genre?
+   - Visualisierung: Pie chart oder Bubble Chart
+   
+      ![](https://www.bi-scout.com/uploads/assets/wissen/Tipps%20Datenvisualisierung/Datenvisualisierung-13.png)
+- Welche Künstler*Innen sind aktivsten? (Welches Genre)
+   - Visualisierungen: Barplot/ 
+- Wie ist die Geschlechter-Verteilung?
+
+
 
 ### KW 19
 
