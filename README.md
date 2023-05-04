@@ -50,7 +50,11 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 - Welche Künstler*Innen sind aktivsten? (Welches Genre)
    - Visualisierungen: Barplot/ 
 - Wie ist die Geschlechter-Verteilung?
-
+- Welche Orte tauchen in deutschen Songtexten am meisten auf?
+   - Visualisierung: Map
+- Welche Begriffe tauchen in Songtitel am meisten auf?
+   - Visualisierung: Wordcloud
+   
 ##### heutige Sitzung: 
 
 - Spacy Tutorial
