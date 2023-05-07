@@ -13,13 +13,14 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 - Durchlesen der auf GitHub bereit gestellten Dokumente und GitHub Repositories
 - Treffen innerhalb des Teams zum Brainstorming erster Ideen
-- Vorbereitung auf die kommende Sitzung:
+##### Vorbereitung auf die kommende Sitzung:
    - Jupyter Notebook vorbereiten und Datenset herunterladen
    - Statistiken zum Datenset bereit stellen
    - mind. eine Statistik zur Lyriclänge erstellen
 
-### KW 17
+### KW 17 (27.04.2023)
 
+##### Ideensammlung für Verteilungen 
 - Generelle Verteilungen der einzelnen Genres
    - Statischtische Kennzahlen (min, max, mean, etc.) als Boxplot darstellen
 - Wie deutsch sind deutsche Songtexte eigentlich?
@@ -49,7 +50,21 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 - Welche Künstler*Innen sind aktivsten? (Welches Genre)
    - Visualisierungen: Barplot/ 
 - Wie ist die Geschlechter-Verteilung?
+- Welche Orte tauchen in deutschen Songtexten am meisten auf?
+   - Visualisierung: Map
+- Welche Begriffe tauchen in Songtitel am meisten auf?
+   - Visualisierung: Wordcloud
+   
+##### heutige Sitzung: 
 
+- Spacy Tutorial
+- Besprechung der kommenden Wochen
+
+##### Vorbereitung auf kommende Sitzung (bis zur nächsten Woche - 10. Mai):
+- Im Laufe der Woche zwei Statistiken umsetzen
+  - sollen was mit Lyrics/Sprache zu tun haben, also mit Spacy auf den Texten arbeiten
+  - Anzahl Wörter durch Spacy gezogen
+  - Über E-Mail Bescheid geben
 
 
 ### KW 19
