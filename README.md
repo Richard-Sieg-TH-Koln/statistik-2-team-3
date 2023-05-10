@@ -69,7 +69,7 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- https://towardsdatascience.com/using-sentence-embeddings-to-explore-the-similarities-and-differences-in-song-lyrics-1820ac713f00
 
 ### KW 21
 
