@@ -70,6 +70,11 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 ### KW 19
 
 - https://towardsdatascience.com/using-sentence-embeddings-to-explore-the-similarities-and-differences-in-song-lyrics-1820ac713f00
+- Erstellung von zwei Statistiken bis zum zehnten Mai 
+  - Weclhe Locations werden in den Lyrics genannt?
+  - Welche Sprachen sind in den Songtexten vorhanden?
+- Statistiken sind in zwei Branches aufgeteilt, da es zum Merge-Konflikt kam und wir ihn nicht lösen konnten
+- Sprachverteilungen sind teilweise fehlerhaft 
 
 ### KW 21
 
