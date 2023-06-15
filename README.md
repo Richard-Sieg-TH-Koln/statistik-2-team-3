@@ -78,11 +78,15 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 21
 
-- Hier kommt euer aktueller Stand rein...
+- Verbesserungen des bisherigen codes
+- Einschränkung der Sprachen auf Englisch und Türkisch
+- Hinzufügen der Map
+- Grafik für Grammatik verbessert
 
 ### KW 23
 
-- Hier kommt euer aktueller Stand rein...
+- Durchlauf auf den neuen Datensatz
+- Huggingface Tutorial
 
 ### KW 25
 
