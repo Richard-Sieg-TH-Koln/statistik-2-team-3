@@ -90,7 +90,8 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 25
 
-- Hier kommt euer aktueller Stand rein...
+- Aufteilung der Jupyter Notebooks zur Durchführung des Feedbacks und zum Kommentieren der Statistiken
+- Löschen von unnötigen Dateien und Zusammenfassen der finalen Jupyter Notebooks
 
 ## Initiales Setup
 
