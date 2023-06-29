@@ -9,29 +9,89 @@ Dies ist das GitHub Repository für das DIS 22 Projekt im Sommersemester 2023.
 
 Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt eure Notizen zum Ende der jeweiligen Kalenderwoche ein.,
 
-### KW 15
+### KW 15 (13.04.2023)
 
-- Hier kommt euer aktueller Stand rein...
+- Durchlesen der auf GitHub bereit gestellten Dokumente und GitHub Repositories
+- Treffen innerhalb des Teams zum Brainstorming erster Ideen
+##### Vorbereitung auf die kommende Sitzung:
+   - Jupyter Notebook vorbereiten und Datenset herunterladen
+   - Statistiken zum Datenset bereit stellen
+   - mind. eine Statistik zur Lyriclänge erstellen
 
-### KW 17
+### KW 17 (27.04.2023)
 
-- Hier kommt euer aktueller Stand rein...
+##### Ideensammlung für Verteilungen 
+- Generelle Verteilungen der einzelnen Genres
+   - Statischtische Kennzahlen (min, max, mean, etc.) als Boxplot darstellen
+- Wie deutsch sind deutsche Songtexte eigentlich?
+   - Visualisierung: Pie Chart
+   - Vergleichen auf sprachlicher Ebene
+- Welche Fremdsprachen werden am meisten benutzt?
+   - Visualisierung: Pie Chart
+- Songlänge 
+   - Visualisierung: Scatterplot
+- Im welchen Genre treten die meisten Collaborationen auf? 
+   - Visualisierung: Barplot/ Knowledge Graphs
+- Welche Genres sind aktuell beliebt/ Trend?
+   - Veränderungen der Trends
+   - Visualisierung: Scatterplot/ Barplot
+- Was sind die meist benutzten Wörter?
+   - Visualisierung: Wortwolke
+- Wird Deutsch in Songtexten immer schlechter? Wie grammatikalisch Korrekt sind deutsche Songtexte eigentlich?
+   - Visualisierung:  Pie Chart/ Barplot
+- Welches Genre ist am Einzigartigsten? Wie vielfältig sind deutsche Songtexte?
+   -  Visualisierung: Swarmplot (https://nivo.rocks/swarmplot/)
+- Sind alle Song gleich? (Kann man Songs nach bestimmten Themen aufteilen?)
+   - Sentiment-Analyse
+   - Was ist das traurigste/ wütendste Genre?
+   - Visualisierung: Pie chart oder Bubble Chart
+   
+      ![](https://www.bi-scout.com/uploads/assets/wissen/Tipps%20Datenvisualisierung/Datenvisualisierung-13.png)
+- Welche Künstler*Innen sind aktivsten? (Welches Genre)
+   - Visualisierungen: Barplot/ 
+- Wie ist die Geschlechter-Verteilung?
+- Welche Orte tauchen in deutschen Songtexten am meisten auf?
+   - Visualisierung: Map
+- Welche Begriffe tauchen in Songtitel am meisten auf?
+   - Visualisierung: Wordcloud
+   
+##### heutige Sitzung: 
+
+- Spacy Tutorial
+- Besprechung der kommenden Wochen
+
+##### Vorbereitung auf kommende Sitzung (bis zur nächsten Woche - 10. Mai):
+- Im Laufe der Woche zwei Statistiken umsetzen
+  - sollen was mit Lyrics/Sprache zu tun haben, also mit Spacy auf den Texten arbeiten
+  - Anzahl Wörter durch Spacy gezogen
+  - Über E-Mail Bescheid geben
+
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- https://towardsdatascience.com/using-sentence-embeddings-to-explore-the-similarities-and-differences-in-song-lyrics-1820ac713f00
+- Erstellung von zwei Statistiken bis zum zehnten Mai 
+  - Weclhe Locations werden in den Lyrics genannt?
+  - Welche Sprachen sind in den Songtexten vorhanden?
+- Statistiken sind in zwei Branches aufgeteilt, da es zum Merge-Konflikt kam und wir ihn nicht lösen konnten
+- Sprachverteilungen sind teilweise fehlerhaft 
 
 ### KW 21
 
-- Hier kommt euer aktueller Stand rein...
+- Verbesserungen des bisherigen codes
+- Einschränkung der Sprachen auf Englisch und Türkisch
+- Hinzufügen der Map
+- Grafik für Grammatik verbessert
 
 ### KW 23
 
-- Hier kommt euer aktueller Stand rein...
+- Durchlauf auf den neuen Datensatz
+- Huggingface Tutorial
 
 ### KW 25
 
-- Hier kommt euer aktueller Stand rein...
+- Aufteilung der Jupyter Notebooks zur Durchführung des Feedbacks und zum Kommentieren der Statistiken
+- Löschen von unnötigen Dateien und Zusammenfassen der finalen Jupyter Notebooks
 
 ## Initiales Setup
 
